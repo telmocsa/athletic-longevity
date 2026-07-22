@@ -1,11 +1,11 @@
-﻿Longevidade Atlética
+Longevidade Atlética
 
 
 # Longevidade Atlética +50 — Log de Estado
 
 
-Versão: 2.0
-Última atualização: 13/07/2026
+Versão: 2.1
+Última atualização: 22/07/2026
 
 
 ---
@@ -22,6 +22,7 @@ Desenvolver um programa de treino baseado em evidência científica para maximiz
 - Preservar potência, mobilidade e velocidade.
 - Minimizar a perda funcional associada ao envelhecimento.
 - Aumentar a qualidade de vida e a independência física nas próximas décadas.
+- Estabelecer rotina consistente de treino complementar.
 
 
 A mentoria será conduzida como um programa de preparação física para um atleta master, e não como um plano de reabilitação.
@@ -74,6 +75,7 @@ Força
 
 
 - Exercícios com peso corporal, aproximadamente 1x por semana (inconsistente).
+- Necessário aumentar frequência para 2-3x por semana.
 
 
 ---
@@ -123,6 +125,7 @@ No dia seguinte existe:
 
 
 - Rigidez predominante na região lombar.
+- Fadiga muscular moderada nos membros inferiores.
 
 
 ---
@@ -139,6 +142,7 @@ Maior probabilidade
 - Compensação pela coluna lombar durante movimentos explosivos.
 - Défice funcional dos abdutores e adutores da anca.
 - Redução da amplitude funcional em movimentos laterais rápidos.
+- Fraqueza relativa da cadeia posterior comparada com exigências do futebol.
 
 
 Hipóteses secundárias
@@ -183,6 +187,7 @@ Observação:
 
 
 - Em flexão profunda começa a sentir a região lombar.
+- Necessária melhoria na mobilidade da anca e estabilidade do core.
 
 
 ---
@@ -217,6 +222,7 @@ Ao longo da mentoria será monitorizada a evolução dos seguintes indicadores:
 - Equilíbrio unilateral.
 - Potência percebida no remate.
 - Confiança em mudanças rápidas de direção.
+- Velocidade de recuperação pós-treino.
 
 
 ---
@@ -233,6 +239,7 @@ Concluir avaliação funcional de:
 - Estabilidade do core.
 - Mobilidade dos tornozelos.
 - Mobilidade torácica.
+- Força dos glúteos e cadeia posterior.
 
 
 ---
@@ -250,6 +257,7 @@ Construir uma base física através de:
 - Fortalecimento dos abdutores.
 - Melhoria da mobilidade da anca.
 - Melhoria da estabilidade lombopélvica.
+- Estabilização do core com progressão gradual.
 
 
 Objetivo principal:
@@ -276,6 +284,7 @@ Recuperar amplitude funcional suficiente para intercetar passes laterais com con
 - Tornar o aquecimento mais curto e eficaz.
 - Aumentar a resiliência dos tendões.
 - Melhorar a rapidez dos movimentos laterais.
+- Estabelecer rotina de treino de força 3x por semana.
 
 
 ---
@@ -289,6 +298,7 @@ Recuperar amplitude funcional suficiente para intercetar passes laterais com con
 - Preservar força, potência e equilíbrio.
 - Reduzir significativamente o risco de lesão relacionado com a idade.
 - Manter uma idade funcional superior à idade cronológica.
+- Evitar deterioração significativa da performance após os 60, 70 e 80 anos.
 
 
 ---
@@ -312,6 +322,7 @@ Construção da base:
 - Mobilidade
 - Força
 - Estabilidade
+- Resistência muscular
 
 
 Fase 2
@@ -336,6 +347,7 @@ Resiliência:
 - Cartilagem
 - Osso
 - Recuperação
+- Manutenção de força
 
 
 Fase 4
@@ -346,6 +358,7 @@ Performance Master:
 
 - Otimização da performance após os 50 anos.
 - Estratégias para manter capacidade atlética durante décadas.
+- Adaptação contínua às mudanças relacionadas com a idade.
 
 
 ---
@@ -357,7 +370,7 @@ Performance Master:
 Fase atual:
 
 
-Fase 0 — Avaliação Funcional
+Fase 0 — Avaliação Funcional (em progresso)
 
 
 Estado da evolução:
@@ -368,6 +381,7 @@ Estado da evolução:
 - Mobilidade da anca identificada como principal área de melhoria.
 - Padrão consistente de compensação lombar em movimentos de grande amplitude.
 - Primeiros objetivos definidos para melhoria da função específica no futebol.
+- Necessária intensificação do treino de força complementar.
 
 
 ---
@@ -489,6 +503,7 @@ Durante a sessão deverão ser introduzidos novos conceitos sempre suportados po
 - Biomecânica.
 - Gerontologia.
 - Ciência da Longevidade.
+- Nutrição aplicada ao desporto.
 
 
 No final da sessão deverá ser verificado se existe necessidade de atualizar um ou mais dos três documentos.
@@ -497,7 +512,7 @@ No final da sessão deverá ser verificado se existe necessidade de atualizar um
 Objetivo final:
 
 
-Construir e manter um corpo capaz de praticar futebol recreativo com intensidade, segurança e prazer durante as próximas décadas.
+Construir e manter um corpo capaz de praticar futebol recreativo com intensidade, segurança e prazer durante as próximas décadas, maximizando a qualidade de vida e a funcionalidade física.
 
 
 ---
@@ -517,3 +532,5 @@ Temas identificados para desenvolvimento futuro:
 - Desenvolver estratégia de manutenção da performance entre os 60 e os 80 anos.
 - Avaliar estratégias nutricionais para suporte da longevidade atlética.
 - Definir critérios objetivos para progressão entre fases.
+- Implementar sistema de feedback em tempo real durante o treino.
+- Criar protocolo de deload periódico para prevenção de overtraining.
